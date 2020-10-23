@@ -1,0 +1,7 @@
+1   build: docker:
+
+2   worker: Dockerfile
+
+3   run:
+
+4   worker: python3 m userbot
